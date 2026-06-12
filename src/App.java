@@ -1,9 +1,10 @@
 import java.util.Stack;
-import models.*;
+
+import utils.*;
 public class App {
     public static void main(String[] args) throws Exception {
-        runStackSorter();
         runSignValidator();
+        runStackSorter();
         runQueuePalindrome();
     }
     private static void runSignValidator() {
@@ -18,17 +19,22 @@ public class App {
         System.out.println("Cadena: " + cadena3 + " | Resultado: " + signValidator.isValid(cadena3));
         System.out.println("Cadena: " + cadena4 + " | Resultado: " + signValidator.isValid(cadena4));
     }
+
     private static void runStackSorter(){
-        StackSorter sortear = new StackSorter();
         Stack<Integer> stack = new Stack<>();
+        
         stack.push(7);
         stack.push(2);
         stack.push(12);
         stack.push(1);
         stack.push(2);
+    
+        StackSorter sortear = new StackSorter();
+        System.out.println("\nEjercicio 02: Ordenar Stack");
+        System.out.println("Stack Original: " + stack);
         sortear.sortStack(stack);
-        System.out.println("Ordenado"+ stack);
-        System.out.println(stack.peek());
+        System.out.println("Stack Ordenado: "+ stack);
+        System.out.println("Tope esperado: " + stack.peek());
 
 
     }

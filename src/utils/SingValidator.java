@@ -1,4 +1,4 @@
-package models;
+package utils;
 
 import java.util.Stack;
 
@@ -8,7 +8,7 @@ public class SingValidator {
         for(char sign : signos.toCharArray()){
             if(sign == '(' || sign== '[' || sign == '{' ){
                 pilaSigns.push(sign);
-            }else if(sign == ')' || sign == ')' || sign == ')'){
+            }else if(sign == ')' || sign == '}' || sign == ']'){
                 if (pilaSigns.isEmpty()) return false;
  
                 char top = pilaSigns.pop();
