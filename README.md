@@ -1,4 +1,4 @@
-# Práctica: Ejercicios de logica con estrucutras lineales: pilas y colas
+# Práctica: Ejercicios de logica con estructuras lineales: pilas y colas
 
 ## Datos del Grupo
 - **Nombres:**  Cristopher Carangui, Andres Zuñiga y Nicolas Aguilar.
