@@ -29,7 +29,7 @@ Un ejercicio donde se  evalua si una palabra es palindroma con varios parametros
 |           Ejercicio3: Palindromo usando colas|                  ![alt text](/assets/image-2.png)|                ![alt text](/assets/image-5.png)|Se reconoce un palindromo  |
 
 ## Salida en consola
-![alt text](image-6.png)
+![alt text](/assets/image-6.png)
 
 
 ## Conclusiones
