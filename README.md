@@ -24,9 +24,9 @@ Un ejercicio donde se  evalua si una palabra es palindroma con varios parametros
 ## Tabla de evidencias requeridas
 | Ejercicio| Evidencia de Codigo | Evidencia de consola | Observacion|                                                                                                                         |
 | ----------------: | -------------------------: | ---------------------: | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-|            Ejercicio1:Validacion de signos|                     ![alt text](image.png)|                 ![alt text](image-3.png)| Se obtuvo los resultados requeridos                                                          |
-|            Ejercicio2: Ordenar Stack|                    ![alt text](image-1.png) |                ![alt text](image-4.png) |Se ordena bien la pila requerida                                        |
-|           Ejercicio3: Palindromo usando colas|                  ![alt text](image-2.png)|                ![alt text](image-5.png)|Se reconoce un palindromo  |
+|            Ejercicio1:Validacion de signos|                     ![alt text](/assets/image.png)|                 ![alt text](/assets/image-3.png)| Se obtuvo los resultados requeridos                                                          |
+|            Ejercicio2: Ordenar Stack|                    ![alt text](/assets/image-1.png) |                ![alt text](/assets/image-4.png) |Se ordena bien la pila requerida                                        |
+|           Ejercicio3: Palindromo usando colas|                  ![alt text](/assets/image-2.png)|                ![alt text](/assets/image-5.png)|Se reconoce un palindromo  |
 
 ## Salida en consola
 ![alt text](image-6.png)
